@@ -5,7 +5,7 @@ module.exports = {
     description: '包含: Java基础、SpringBoot、MySQL',
     // 指定 vuepress build 的输出目录。如果传入的是相对路径，则会基于 process.cwd() 进行解析
     dest: '/.dist',
-    port: '8080',
+    port: '7777',
     // 额外的需要被注入到当前页面的 HTML <head> 中的标签，每个标签都可以以 [tagName, { attrName: attrValue }, innerHTML?] 的格式指定
     head: '',
     markdown: {
